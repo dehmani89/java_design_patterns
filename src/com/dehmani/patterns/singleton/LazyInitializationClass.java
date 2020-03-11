@@ -1,4 +1,4 @@
-package com.dehmani.singleton;
+package com.dehmani.patterns.singleton;
 
 //Java Code to create singleton class With Lazy initialization
 public class LazyInitializationClass

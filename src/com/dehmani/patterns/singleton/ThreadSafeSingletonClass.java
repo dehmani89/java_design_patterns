@@ -1,4 +1,4 @@
-package com.dehmani.singleton;
+package com.dehmani.patterns.singleton;
 
 // Java program to create Thread Safe Singleton class
 public class ThreadSafeSingletonClass

@@ -1,4 +1,4 @@
-package com.dehmani.singleton;
+package com.dehmani.patterns.singleton;
 
 // Java code for Bill Pugh Singleton Implementaion
 public class BillPughSingletonImplementationClass

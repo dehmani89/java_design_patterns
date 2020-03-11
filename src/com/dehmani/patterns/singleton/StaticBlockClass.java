@@ -1,4 +1,4 @@
-package com.dehmani.singleton;
+package com.dehmani.patterns.singleton;
 
 // Java code to create singleton class using Static block approach
 public class StaticBlockClass{

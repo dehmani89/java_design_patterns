@@ -1,4 +1,4 @@
-package com.dehmani.singleton;
+package com.dehmani.patterns.singleton;
 
 // Java code to create singleton using Eager Initialization
 public class EagerInitializationClass

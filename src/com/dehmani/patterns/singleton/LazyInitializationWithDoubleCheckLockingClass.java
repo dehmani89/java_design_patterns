@@ -1,4 +1,4 @@
-package com.dehmani.singleton;
+package com.dehmani.patterns.singleton;
 
 // Java code to explain double check locking
 public class LazyInitializationWithDoubleCheckLockingClass
